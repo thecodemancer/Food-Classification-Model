@@ -27,4 +27,4 @@ Do not use this model to determine whether an object is edible or not. This mode
 This model assumes that its input image contains a well-cropped food dish. If a non-food image is input to the model or if the dish is not well-cropped, the output of the model may be meaningless. This model was trained on a dataset skewed toward North American foods.
 
 # The Code
-<a href="food_classification_model_predict.ipynb" title="The Code">The code is here</a>
+<a href="https://github.com/thecodemancer/Model-for-Food-Classification/blob/bc11bfe804eda06d68dd6efa2835c52dd45e3612/Model_for_Food_Classification.ipynb" title="The Code">The code is here</a>
