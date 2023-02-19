@@ -1,4 +1,4 @@
-# 🍽 Food Classification Model Predict
+# 🍽 Food Classification Model
 <img src="https://t1.rg.ltmcdn.com/es/posts/7/4/1/ceviche_peruano_18147_orig.jpg" />
 
 # Overview
